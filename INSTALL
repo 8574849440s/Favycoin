@@ -1,0 +1,9 @@
+Building Favycoin
+
+See doc/readme-qt.rst for instructions on building Favycoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Favycoin.
+
+See doc/build-*.txt for instructions on building favycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Favycoin.
