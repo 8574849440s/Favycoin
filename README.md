@@ -30,3 +30,13 @@ in this manner will have their corresponding issue labeled 'stagnant'.
 Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labeled 'stale'.
+
+
+Algorithm	Scrypt
+Type	PoW/PoS
+Coin name	Favycoin
+Coin Short	FAN
+RPC port	34198
+P2P port	34197
+Block reward	9000 coins
+Coin supply	9450000000 coins
